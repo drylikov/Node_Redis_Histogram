@@ -1,4 +1,4 @@
-# redis-histogram
+# Redis histogram .
 
   Redis histogram for node.js
 
