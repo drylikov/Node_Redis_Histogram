@@ -1,0 +1,22 @@
+
+{
+  "name": "redis_histogram",
+  "version": "0.2.0",
+  "repository": "drylikov/node_redis_histogram",
+  "description": "histogram binning in redis",
+  "keywords": [
+    "histo",
+    "histogram",
+    "redis",
+    "stats"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*",
+    "redis": "~0.10.0",
+    "co": "~3.0.1",
+    "thunkify": "0.0.1"
+  },
+  "license": "MIT"
+}
