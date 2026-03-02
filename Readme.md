@@ -5,7 +5,7 @@
 ## Installation
 
 ```
-$ npm install redis-histogram
+$ npm install redis_histogram
 ```
 
 ## Example
@@ -45,7 +45,6 @@ hist.load(function(err, res){
 ### Histogram#load(fn)
 
   Load histogram bins.
-
 
 
 
