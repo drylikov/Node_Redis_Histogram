@@ -47,4 +47,3 @@ hist.load(function(err, res){
   Load histogram bins.
 
 
-
