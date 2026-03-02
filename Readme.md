@@ -45,3 +45,5 @@ hist.load(function(err, res){
 ### Histogram#load(fn)
 
   Load histogram bins.
+
+
